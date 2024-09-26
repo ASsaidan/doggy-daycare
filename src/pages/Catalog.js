@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { fetchDogs } from '../services/dogService';
-import '../styles/Catalog.css';
+import '../styles/Catalog.css'; 
 
 const Catalog = () => {
   const [dogs, setDogs] = useState([]);
