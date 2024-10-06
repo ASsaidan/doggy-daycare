@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doggy-daycare/static/css/main.b38d9ec4.css",
+    "main.js": "/doggy-daycare/static/js/main.de73c061.js",
+    "static/js/453.a324c33b.chunk.js": "/doggy-daycare/static/js/453.a324c33b.chunk.js",
+    "index.html": "/doggy-daycare/index.html",
+    "main.b38d9ec4.css.map": "/doggy-daycare/static/css/main.b38d9ec4.css.map",
+    "main.de73c061.js.map": "/doggy-daycare/static/js/main.de73c061.js.map",
+    "453.a324c33b.chunk.js.map": "/doggy-daycare/static/js/453.a324c33b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b38d9ec4.css",
+    "static/js/main.de73c061.js"
+  ]
+}
