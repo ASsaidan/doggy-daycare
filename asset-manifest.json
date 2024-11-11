@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/doggy-daycare/static/css/main.aac381a1.chunk.css",
-    "main.js": "/doggy-daycare/static/js/main.e7036783.chunk.js",
-    "main.js.map": "/doggy-daycare/static/js/main.e7036783.chunk.js.map",
+    "main.js": "/doggy-daycare/static/js/main.72fa7802.chunk.js",
+    "main.js.map": "/doggy-daycare/static/js/main.72fa7802.chunk.js.map",
     "runtime-main.js": "/doggy-daycare/static/js/runtime-main.3955b891.js",
     "runtime-main.js.map": "/doggy-daycare/static/js/runtime-main.3955b891.js.map",
     "static/js/2.6af88a27.chunk.js": "/doggy-daycare/static/js/2.6af88a27.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.da762b4d.chunk.js": "/doggy-daycare/static/js/3.da762b4d.chunk.js",
     "static/js/3.da762b4d.chunk.js.map": "/doggy-daycare/static/js/3.da762b4d.chunk.js.map",
     "index.html": "/doggy-daycare/index.html",
-    "precache-manifest.e93c64c96120cc481c6a075cd742fc5e.js": "/doggy-daycare/precache-manifest.e93c64c96120cc481c6a075cd742fc5e.js",
+    "precache-manifest.c50ad8a34695bea8a458cebdcc58dbab.js": "/doggy-daycare/precache-manifest.c50ad8a34695bea8a458cebdcc58dbab.js",
     "service-worker.js": "/doggy-daycare/service-worker.js",
     "static/css/main.aac381a1.chunk.css.map": "/doggy-daycare/static/css/main.aac381a1.chunk.css.map",
     "static/js/2.6af88a27.chunk.js.LICENSE.txt": "/doggy-daycare/static/js/2.6af88a27.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3955b891.js",
     "static/js/2.6af88a27.chunk.js",
     "static/css/main.aac381a1.chunk.css",
-    "static/js/main.e7036783.chunk.js"
+    "static/js/main.72fa7802.chunk.js"
   ]
 }

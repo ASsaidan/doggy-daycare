@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "140a090c8d0b7df0b16749450c39618e",
+    "revision": "ac2e792226397356933d00e6204c2deb",
     "url": "/doggy-daycare/index.html"
   },
   {
-    "revision": "a36dfdf8b348216c0f95",
+    "revision": "0c02d257a0f8c30e767b",
     "url": "/doggy-daycare/static/css/main.aac381a1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doggy-daycare/static/js/3.da762b4d.chunk.js"
   },
   {
-    "revision": "a36dfdf8b348216c0f95",
-    "url": "/doggy-daycare/static/js/main.e7036783.chunk.js"
+    "revision": "0c02d257a0f8c30e767b",
+    "url": "/doggy-daycare/static/js/main.72fa7802.chunk.js"
   },
   {
     "revision": "6abbb3da36a176c6cee2",

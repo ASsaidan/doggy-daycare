@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doggy-daycare/precache-manifest.e93c64c96120cc481c6a075cd742fc5e.js"
+  "/doggy-daycare/precache-manifest.c50ad8a34695bea8a458cebdcc58dbab.js"
 );
 
 self.addEventListener('message', (event) => {
